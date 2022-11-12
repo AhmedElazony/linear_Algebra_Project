@@ -1,8 +1,8 @@
 // C# program to demonstrate working
 // of Gaussian Elimination method
 using System;
-namespace good{
-class GFG
+namespace GaussianElimination{
+class Solution
     {
 	
         public static int numOfEquations;
